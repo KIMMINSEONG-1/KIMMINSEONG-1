@@ -15,7 +15,7 @@ GitHub 저장소 링크 첨부 - https://github.com/Scanning-PKNU/korea-populati
 프로젝트의 목적 또는 해결하려는 문제 - 사용자가 원하는 인구 데이터를 봄으로써 우리나라 사회 전반적인 인구 데이터에 대해서 수치를 확인할 수 있습니다.<br>
 
 👯 프로젝트에서 맡고 있는 역할
-웹 개발 & 데이터/웹 연결 - 데이터 추출 후 웹에서 사용자가 채팅으로 원하는 인구 보고서를 볼 수 있는 과정을 개발하고 있습니다.<br>
+웹 개발 & 데이터/웹 연결 - 데이터 추출 후 웹에서 사용자가 채팅으로 원하는 인구 보고서를 볼 수 있는 과정을 개발하고 있습니다.<br><br><br>
 
 📫 현재까지 진행한 GitHub 활동 내역
 GitHub contribution 그래프 - ![1](https://github.com/user-attachments/assets/1e8e4be1-c356-4bf7-b35f-56f380c572e1)<br>
