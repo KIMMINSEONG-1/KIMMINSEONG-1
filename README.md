@@ -3,10 +3,10 @@
 <img height="100x", width="100px src="![poster](./image.png) "><br>
 
 🔭 자기소개(About Me)
-이름 - minseong, 전공/관심 분야 - 컴퓨터공학/소프트웨어 개발
-사용 가능한 기술 스택 - C, C++, Pyhton, Java, Html/Css/Javascript
-관심 있는 개발 분야 - 웹, 데이터
-이메일: alstjddk8@gmail.com
+이름 - minseong, 전공/관심 분야 - 컴퓨터공학/소프트웨어 개발<br>
+사용 가능한 기술 스택 - C, C++, Pyhton, Java, Html/Css/Javascript<br>
+관심 있는 개발 분야 - 웹, 데이터<br>
+이메일: alstjddk8@gmail.com<br>
 
 🌱 현재 진행 중인 프로젝트 소개
 프로젝트명 - 인구 데이터 보고서
