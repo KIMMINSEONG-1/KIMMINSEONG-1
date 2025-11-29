@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="image.png", height="100x", width="100px"><br>
+<img src="![poster](./image.png)", height="100x", width="100px"><br>
 
 🔭 자기소개(About Me)
 이름 - minseong, 전공/관심 분야 - 컴퓨터공학/소프트웨어 개발
