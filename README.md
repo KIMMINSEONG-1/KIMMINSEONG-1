@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkr.freepik.com%2Ffree-photos-vectors%2F%25ED%2592%258D%25EA%25B2%25BD&psig=AOvVaw2dLoDwRhu9UKxajvoOWQwV&ust=1764499437637000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJihuOOWl5EDFQAAAAAdAAAAABAE" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="./image.jpg", height="100x", width="100px"><br>
 
 🔭 자기소개(About Me)
 이름 - minseong, 전공/관심 분야 - 컴퓨터공학/소프트웨어 개발
@@ -29,7 +29,7 @@ GitHub contribution 그래프 - ![1](https://github.com/user-attachments/assets/
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>C</title><path d="M16.5921 9.1962s-.354-3.298-3.627-3.39c-3.2741-.09-4.9552 2.474-4.9552 6.14 0 3.6651 1.858 6.5972 5.0451 6.5972 3.184 0 3.5381-3.665 3.5381-3.665l6.1041.365s.36 3.31-2.196 5.836c-2.552 2.5241-5.6901 2.9371-7.8762 2.9201-2.19-.017-5.2261.034-8.1602-2.97-2.938-3.0101-3.436-5.9302-3.436-8.8002 0-2.8701.556-6.6702 4.047-9.5502C7.444.72 9.849 0 12.254 0c10.0422 0 10.7172 9.2602 10.7172 9.2602z"/></svg>
+  
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
